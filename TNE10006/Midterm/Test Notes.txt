@@ -1,0 +1,111 @@
+IP: 92.143.128.0/18
+A: 1500
+B: 300
+C: 50
+D: 200
+E: 20
+F: 3000
+G: 1
+H: 1
+________
+Order:
+F -> A -> B -> D -> C -> E -> G -> H
+
+F:
+Bits needed: 12
+Subnet mask: 32 - 12 = 20
+
+Network portion as binary: 1000 0000.0000 0000
+Bits needed as binary:     0000 1111.1111 1111
+Calculation: 1000 1111
+
+Number of host: 2^12 = 4096
+
+Range: 92.143.128.0 - 92.143.143.255
+
+A:
+Bits needed: 11
+Subnet mask: 32 - 12 = 21
+
+Network portion as binary: 1001 0000.0000 0000
+Bits needed as binary:     0000 0111.1111 1111
+Calculation: 1001 0111
+
+Number of host: 2^11 = 2048
+
+Range: 92.143.144.0 - 92.143.151.255
+
+B:
+Bits needed: 9
+Subnet mask: 32 - 9 = 23
+
+Network portion as binary: 1001 1000.0000 0000
+Bits needed as binary:     0000 0001.1111 1111
+Calculation: 1001 1001
+
+Number of host: 2^9 = 512
+
+Range: 92.143.152.0 - 92.143.153.255
+
+D:
+Bits needed: 8
+Subnet mask: 32 - 8 = 24
+
+Number of host: 2^8 = 256
+
+Range: 92.143.154.0 - 92.143.154.255
+
+C: 
+Bits needed: 6
+Subnet mask: 32 - 6 = 26
+
+Number of host: 2^6 = 64
+
+Range: 92.143.155.0 - 92.143.155.63
+
+E: 
+Bits needed: 5
+Subnet mask: 32 - 6 = 27
+
+Number of host: 2^5 = 32
+
+Range: 92.143.155.64 - 92.143.155.95
+
+G: 
+Bits needed: 2
+Subnet mask: 32 - 2 = 30
+
+Number of host: 2^2 = 4
+
+Range: 92.143.163.96 - 92.143.163.99
+
+H: 
+Bits needed: 2
+Subnet mask: 32 - 2 = 30
+
+Number of host: 2^2 = 4
+
+Range: 92.143.155.99 - 92.143.155.102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

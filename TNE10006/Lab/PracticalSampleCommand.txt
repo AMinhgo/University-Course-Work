@@ -1,0 +1,297 @@
+Task 1:
+Router:
+en
+!
+conf t
+!
+hostname Nairobi/Tokyo/Lisbon
+!
+banner motd + Device: Nairobi Name: Nhat Minh ID: 103802490
++
+!
+end
+
+Sw1:
+en
+!
+conf t
+!
+hostname Tokyo
+!
+banner motd + Device: Tokyo Name: Nhat Minh ID: 103802490
++
+!
+end
+
+Sw2:
+en
+!
+conf t
+!
+hostname Lisbon
+!
+banner motd + Device: Lisbon Name: Nhat Minh ID: 103802490
++
+!
+end
+
+Task 2:
+All Device:
+en
+!
+conf t
+!
+vlan 15
+ name Centralbank
+ ex
+!
+interface vlan 15
+ description Centralbank
+ ex
+!
+vlan 50
+ name Royalmint
+ ex
+!
+interface vlan 50
+ description Royalmint
+ ex
+!
+vlan 150
+ name Management
+ ex
+!
+interface vlan 150
+ description Management
+ ex
+!
+end
+
+*just vlan N command will not work for router, only interface vlan*
+
+Sw2:
+en
+!
+conf t
+!
+interface range g1/0/1 - 24
+ shutdown
+ ex
+!
+interface range g1/1/1 - 4
+ shutdown
+ ex
+!
+interface range g1/0/1 - 3
+ no shutdown
+ switchport mode access
+ switchport access vlan 15
+ ex
+!
+interface range g1/0/11 - 13
+ no shutdown
+ switchport mode access
+ switchport access vlan 50
+ ex
+!
+end
+
+Task 3:
+Router:
+en
+!
+conf t
+!
+interface lo0
+ desc Nairobi Loopback
+ ip address 53.15.30.33 255.255.255.248
+ ex
+!
+interface g0/0/1
+ no shutdown
+ ex
+!
+interface g0/0/1.15
+ desc sub-interface for Centralbank
+ encapsulation dot1Q 15
+ ip address 231.17.144.254 255.255.255.128
+ no shutdown
+ ex
+!
+interface g0/0/1.50
+ desc sub-interface for Royalmint
+ encapsulation dot1Q 50
+ ip address 165.45.191.254 255.255.224.0
+ no shutdown
+ ex 
+!
+interface g0/0/1.150
+ desc sub-interface for Management
+ encapsulation dot1Q 150
+ ip address 55.252.16.254 255.255.255.240
+ no shutdown
+ ex 
+!
+end
+
+Task 4:
+Sw1:
+en
+!
+conf t
+!
+interface vlan 150
+ ip address 55.252.16.253 255.255.255.240
+ exit
+!
+end
+
+Sw2:
+en
+!
+conf t
+!
+interface vlan 150
+ ip address 55.252.16.252 255.255.255.240
+ exit
+!
+line vty 0 15
+ transport input none
+ no login
+ exit
+!
+ip domain-name ccna.lab
+ crypto key generate rsa general-keys modulus 1024
+ username cisco priviledge 15 secret ccna
+ line vty 0 15
+ transport input ssh
+ login local
+ exit
+!
+end
+
+*Extra config
+ip ssh time-out 60
+ip ssh authentication-retries 4*
+
+Task 5:
+Sw1:
+en
+!
+conf t
+!
+spanning-tree vlan 50 root primary
+!
+end
+
+Sw2:
+en
+!
+conf t
+!
+spanning-tree vlan 15 root primary
+!
+interface range g1/0/1 - 3
+ spanning-tree portfast
+interface range g1/0/11 - 13
+ spanning-tree portfast
+!
+end
+
+Task 6:
+Sw2:
+en
+!
+conf t
+!
+interface g1/0/3
+ switchport port-security violation protect
+ switchport port-security mac-address sticky
+ switchport port-security maximum 2
+!
+end
+
+Task 7:
+Sw1:
+en
+!
+conf t
+!
+interface range g1/0/5 - 6
+ channel-group 1 mode active
+ no shutdown
+ exit
+!
+interface port-channel 1
+ switchport mode trunk
+ switchport trunk native vlan 150
+!
+end
+
+Sw2:
+en
+!
+conf t
+!
+interface range g1/0/5 - 6
+ channel-group 1 mode passive
+ no shutdown
+ exit
+!
+interface port-channel 1
+ switchport mode trunk
+ switchport trunk native vlan 150
+!
+end
+
+*switch interfaces to native vlan 150 should they encounter errors*
+*use show etherchan sum to show Method (LACP or PAgP)*
+
+Task 8:
+
+Router:
+en
+!
+conf t
+!
+interface lo0
+ desc Loopback
+!
+interface g0/0/1
+ desc main interface
+!
+interface g0/0/1.15
+ desc Subinterface Centralbank
+!
+interface g0/0/1.50
+ desc Subinterface Royalmint
+!
+interface g0/0/1.150
+ desc Subinterface Management
+!
+end
+
+Sw1:
+en
+!
+conf t
+!
+line console 0
+ logging synchronous
+!
+end
+
+Sw2:
+en
+!
+conf t
+!
+line console 0
+ logging synchronous
+!
+end
+
+
+
+
+

@@ -1,0 +1,61 @@
+Vlan network
+-> Network that is designed around the use of vlans
+
+A VLAN is created to logically group devices based on their location, functions or other criteria.
+
+ __S__ [P] _ [P] _ [P]
+|__S__ [P] _ [P] _ [P]
+|__S__ [P] _ [P] _ [P]
+|      vl1   vl2   vl3
+S
+|
+R
+
+Pros:
+ + Improve network performance: by reducing network congestion and increasing network efficiency.
+ + Greater Flexibility and Scalability: Vlans can logically group devices which will allow both geographical and cost-eficenct benefit.
+ + Cost-saving: Organizer can reduce the number of physical network required.
+
+Cons:
+ + Complexity: require extensive planning, configuration, and maintanance. Misconfiguration can results in network issuse and security vulnarabilities.
+ + Broadcast storms: inadequate VLAN design or configuration can lead to broadcast storm. Where excessive broadcast traffic is floods, leading to congestion and performance degration
+ + Limited scalability: configurationing and maintaining proper segmentation can become more challenging as the network grew bigger. Additionally, VLANs may not scale well accress physicall locations or rapid changing network requirements.
+
+Inter-VLAN routing
+
+Layer 2 needs router to forward traffic to foreign network, therefore inter-vlan routing is a process for forwarding network traffic from one vlan to another, using a router.
+
+
+Traditional routing: Where multiple interfaces on the router is used to supplement multiple VLANS
+pros: performance
+cons: cost and not scalable
+
+Router on a stick: When one physical interface is divided into multiple logical interfaces to supplement the use of VLANs
+pros: cost and scalable
+cons: complex configuration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

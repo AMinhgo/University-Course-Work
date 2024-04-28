@@ -1,0 +1,38 @@
+Based on the provided network addresses:
+
+1. **Network Address 1**: 223.15.224.0/19
+   - This is a CIDR notation representing a network range.
+   - The subnet mask is /19, which means the first 19 bits are the network address.
+   - The network address is 223.15.224.0.
+
+2. **Network Address 2**: 56.150.70.48/28
+   - This is also a CIDR notation representing a network range.
+   - The subnet mask is /28, which means the first 28 bits are the network address.
+   - The network address is 56.150.70.48.
+
+To find the last, second usable, and third usable IP addresses for each network, we need to determine the range of usable IP addresses within each subnet. 
+
+For a subnet with CIDR notation /n, where n represents the number of bits in the network portion of the address:
+- The number of usable IP addresses in the subnet is 2^(32-n) - 2.
+- The first IP address in the subnet is the network address.
+- The last IP address in the subnet is the broadcast address, which is the address where all host bits are set to 1.
+
+Let's calculate the last, second usable, and third usable IP addresses for each network:
+
+1. **Network Address 1: 223.15.224.0/19**
+   - Subnet mask: /19
+   - Number of usable IP addresses: 2^(32-19) - 2 = 2^13 - 2 = 8190
+   - Last usable IP address: 223.15.255.254
+   - Second usable IP address: 223.15.224.2
+   - Third usable IP address: 223.15.224.3
+
+2. **Network Address 2: 56.150.70.48/28**
+   - Subnet mask: /28
+   - Number of usable IP addresses: 2^(32-28) - 2 = 2^4 - 2 = 14
+   - Last usable IP address: 56.150.70.62
+   - Second usable IP address: 56.150.70.50
+   - Third usable IP address: 56.150.70.51
+
+So, for Network Address 1, the last usable IP address is 223.15.255.254, the second usable IP address is 223.15.224.2, and the third usable IP address is 223.15.224.3.
+
+For Network Address 2, the last usable IP address is 56.150.70.62, the second usable IP address is 56.150.70.50, and the third usable IP address is 56.150.70.51.

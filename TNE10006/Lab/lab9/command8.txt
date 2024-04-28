@@ -1,0 +1,105 @@
+Part 1 Step 1 -> 4
+SW3&4
+
+en
+!
+conf t
+!
+no ip domain-lookup
+!
+hostname S4
+!
+line console 0
+ logging synchronous
+ exit
+!
+banner motd +
+ No going in without authorization +
+!
+interface range g1/0/1 - 24
+ shutdown
+interface range g1/1/1 - 4
+ shutdown
+!
+end
+
+SW1
+en
+!
+conf t
+!
+no ip domain-lookup
+!
+hostname S1
+!
+line console 0
+ logging synchronous
+ exit
+!
+banner motd +
+ No going in without authorization +
+!
+interface range f0/1 - 24
+ shutdown
+
+
+Part 2
+SW3&4
+conf t
+!
+vlan 99
+ name Management
+ ex
+!
+vlan 10
+ name User
+ ex
+!
+interface g1/0/24
+ no shutdown
+ switchport mode access
+ switchport access vlan 10
+!
+interface g1/0/3
+ no shutdown
+ switchport mode trunk
+ switchport trunk native vlan 99
+!
+interface g1/0/5
+ no shutdown
+ switchport mode trunk
+ switchport trunk native vlan 99
+!
+interface vlan 99
+ ip address 192.168.1.13 255.255.255.0
+ no shutdown
+ desc Management vlan 99
+ end
+
+SW1
+conf t
+!
+vlan 99
+ name Management
+ ex
+!
+interface f0/1
+ no shutdown
+ switchport mode trunk
+ switchport trunk native vlan 99
+!
+interface f0/3
+ no shutdown
+ switchport mode trunk
+ switchport trunk native vlan 99
+!
+interface vlan 99
+ ip address 192.168.1.12 255.255.255.0
+ no shutdown
+ desc Management vlan 99
+ end
+
+
+
+
+

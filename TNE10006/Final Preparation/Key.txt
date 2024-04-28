@@ -1,0 +1,58 @@
+a) In switched networks, collisions are generally do not occur due to the implementation of full-duplex communication and the switching mechanism. Switches operate at Layer 2 of the OSI model, enabling devices to send and receive data simultaneously. When a device sends data through a switch, the switch forwards the data only to the port where the intended recipient device is connected, bypassing other ports. This direct communication between sender and receiver ports eliminates the possibility of collisions
+
+b) CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance) is a protocol utilized in wireless networks like Wi-Fi. It enables devices to share the wireless medium efficiently by first listening to check if it's clear before transmitting data. If the channel is idle, the device proceeds with transmission; if busy, it waits for a random time to recheck. CSMA/CA also employs a collision avoidance mechanism, where devices use a handshake protocol (RTS/CTS) to reserve the channel before transmission, minimizing the chances of collisions. (Ready To Send / Clear To Send)
+
+c) CSMA/CD (Carrier Sense Multiple Access with Collision Detection) is a protocol utilized in Ethernet networks to manage access to the shared communication medium. Before transmitting data, devices listen to check if the network is busy; if clear, they send their data. CSMA/CD employs collision detection, where devices can detect collisions by monitoring the network while transmitting. Upon detection, transmitting devices halt transmission, send a jamming signal to alert others of the collision, and then wait for a random period before retrying
+
+d) CSMA/CD is typically used in wired Ethernet networks, devices to detect collisions by monitoring the network while transmitting data. When a collision is detected, devices stop transmitting, send a jamming signal, and then wait for a random backoff period before attempting to retransmit.
+CSMA/CA is used in wireless networks, such as Wi-Fi networks. Instead of detecting collisions, CSMA/CA aims to avoid collisions altogether. It uses techniques like the Request-to-Send (RTS) / Clear-to-Send (CTS) handshake and virtual carrier sensing to reserve the channel before transmitting data.
+
+e) The FCS (Frame Check Sequence) field in the Ethernet trailer serves as a form of error detection mechanism. It is used to ensure the integrity of the data transmitted across the network. The FCS field contains a checksum or a hash value computed based on the contents of the Ethernet frame, including the header, payload, and other fields.
+
+f) The maximum length of an Ethernet frame, including both the header and the trailer, is 1518 bytes for standard Ethernet frames. This includes:
+
+Preamble and Start Frame Delimiter (SFD): 8 bytes.
+Ethernet Header: 14 bytes.
+Payload: Up to 1500 bytes.
+Frame Check Sequence (FCS): 4 bytes.
+So, the total length is 8 (Preamble) + 14 (Header) + 1500 (Payload) + 4 (FCS) = 1518 bytes.
+
+
+
+a) Not using router on a stick, the following are isseus:
++ Higher Cost: Traditional routing topologies often require multiple physical routers, each connected to separate subnets.This setup can be more expensive in terms of hardware costs 
+
++ Limited Scalability: As the network grows, adding more routers in a traditional topology may become impractical and can lead to scalability issues
+
+
+a) It s a network architecture that carries both voice and data traffic over a single networkinfrastructure
+
+b) A separate network is a traditional network architecture where data and voice traffic arecarried over separate networks or infrastructures.
+
+c) It is the lowest layer in the hierarchy and provides connectivity between end-user devices, such as computers, printers, and IP phones. It is typically responsible for controlling user access to the network
+
+
+Access Layer: is the lowest layer in the hierarchy and provides connectivity between end-user devices, such as computers, printers, and IP phones. It is typically responsible for controlling user access to the network.
+
+Distribution Layer: is the middle layer in the hierarchy and provides connectivity between the access layer and core layer. This layer is responsible for routing traffic between different access layer devices and applying policies such as Quality of Service (QoS) and Access Control Lists (ACLs).
+
+Core Layer: is the highest layer in the hierarchy and provide high-speed connectivity between different Distribution layer devices. This layer is responsible for ensuring high-speed data transfer and network availability.
+
+
+
+a) 
+advan: Using trunking instead of access ports when connecting switches or routers allows for the transmission of multiple VLANs over a single physical link. This maximizes the utilization of network resources by enabling efficient sharing of bandwidth across multiple VLANs
+
+disadvan: one disadvantage of trunking is that it requires additional configuration and management overhead compared to access ports
+
+b) 
+By logically segmenting a single physical network into multiple VLANs, organizations can reduce the need for additional physical network infrastructure, such as switches and cables.
+
+
+a) SSID allows us to identify service set in a human-readable name. (SWINBURNE2G for example)
+
+b) Step 1 – ProbingClients can either search for a specific network or attempt to discover available WLANs
+Step 2 – AuthenticationOPEN means no password, always authenticated, Shared Key involves pre-shared knowledge.
+Step 3 – AssociationFinalize security and bitrate options, Establish data link,AP maps association identifier (AID) to the WLAN client, equivalent to aport on a switch
+
+c) A Denial of Service (DoS) attack is a malicious attempt to disrupt the normal functioning of a target system, network, or service by overwhelming it with a flood of illegitimate traffic. In a DoS attack, the attacker seeks to exhaust the resources of the target, such as bandwidth, memory, or processing capacity, rendering it inaccessible to legitimate users

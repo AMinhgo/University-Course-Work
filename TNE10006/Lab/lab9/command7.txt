@@ -1,0 +1,130 @@
+Part 1 Step 1 -> 4
+en
+!
+delete vlan.dat
+!
+y
+!
+en
+!
+conf t
+!
+no ip domain-lookup
+!
+hostname S1
+!
+line console 0
+ logging synchronous
+ exit
+!
+banner motd +
+ No going in without authorization +
+!
+interface vlan 1
+ ip address 192.168.1.1 255.255.255.0
+ no shutdown
+ desc S1 vlan 1
+ ex
+!
+end
+!
+ping 192.168.1.n
+
+Part 2 Step 1 & 2
+Sw 3 & 4
+en
+!
+conf t
+!
+interface range g1/0/1 - 24
+ shutdown
+ exit
+!
+interface range g1/1/1 - 4
+ shutdown
+ exit
+!
+interface g1/0/5
+ switchport mode trunk
+ exit
+!
+interface g1/0/6
+ switchport mode trunk
+ exit
+!
+interface g1/0/3
+ switchport mode trunk
+ exit
+!
+interface g1/0/4
+ switchport mode trunk
+ exit
+!
+interface g1/0/4
+ no shutdown
+ exit
+!
+interface g1/0/6
+ no shutdown
+ exit
+!
+end
+
+Sw 1
+conf t
+!
+interface range f0/1 - 24
+ shutdown
+ exit
+!
+interface f0/1
+ switchport mode trunk
+ exit
+!
+interface f0/2
+ switchport mode trunk
+ exit
+!
+interface f0/3
+ switchport mode trunk
+ exit
+!
+interface f0/4
+ switchport mode trunk
+ exit
+!
+interface f0/2
+ no shutdown
+ exit
+!
+interface f0/4
+ no shutdown
+ exit
+!
+end
+
+Part 3: On the Altn Switch, lower the root cost. Should S1 be root bridge, lower it to 18, and should the other is root bridge, lower it to 3.
+
+en
+!
+conf t
+!
+interface f0/2
+ spanning-tree cost 3
+!
+end
+!
+show spann
+
+Change it to default once done
+
+conf t
+!
+interface f0/2
+ spanning-tree cost 19
+!
+end
+!
+show spann
+
+*Default spanning-tree command can't be used in Pkt for some reason
