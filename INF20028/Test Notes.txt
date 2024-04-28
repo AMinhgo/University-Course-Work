@@ -1,0 +1,29 @@
+1. Why no ICT ethic code?
+
+It can be said that there are no consistent set of ICT professional ethic code, which can be explained because:
+ + Rapid Technological Advancements: New technology emerging in shorter and shorter amount of time
+ + Diverse Specializations: The ICT field covers branches from website to cybersecurity and data science.
+ + Lack of Consensus: There may be disagreements among ICT professionals, organizations, and regulatory bodies regarding the content and enforcement of a code of conduct (from ACS to IFIP and ACM)
+ + Enforcement Challenges: ICT professionals often work across national borders, making it difficult to ensure compliance with a centralized set of rules.
+
+2. Giovanni Buttarelli was the European Data Protection Supervisor 2014-2019. Giovanni indicated "Not everything that is legally compliant and technically feasible is morally sustainable". In relation to privacy and what was covered in this unit, explain what Giovanni meant in 100 words or less.
+
+Privacy is a hot topic and always get discussed when new technology it comes to fruition. According to Giovanni, a legal tech product that infringed on the privacy of other people may leave a bad taste in the mouth of its users once they realised how their information is targeted or leaked(as is the case for targeted ads and spams from unkown contact). So from that statement, we should consider the limit of how far can technology be involved with our data, and how can technology be develop in a way that does not pose a threat to our privacy.
+
+3. When discussing privacy, "l have nothing to hide" is a common response to arguments about privacy because it's easy to say, but the argument doesn't hold weight under scrutiny. In less than 100 words explain why the argument doesn't hold weight under scrutiny.
+
+Claiming to have nothing to hide overlooks the broader implications of privacy invasion. The phrase "I have nothing to hide" fails to consider how personal information can be exploited, and how privacy rights safeguard everyone, not just those with secrets. Social Engineering and Stalking techniques underscore how even minimal data can be weaponized against an individual. Therefore, it's not just about concealing secrets, but also about protecting oneself from malicious actors and threats. Moreover, what's acceptable in terms of data usage today may not be tomorrow, underscoring the importance of universally protecting privacy rights regardless of innocence.
+
+4. Alvin Toffler's assertion that the illiterate of the 21 st Century are not those who cannot read and write but those that cannot Learn, UNLearn and RELearn. In less than 100 words explain what Alvin means (1.5 marks). In the video in class to help comprehend this concept, Rene Caryol used an example of a time when someone made assumptions about him and handed him a piece of clothing. What was the piece of clothing? (0.5 Marks)
+
+Modern litteracy is when people learn to adapt to newer thing and move away from legacy or old thing, things can be understood as technology in this case. Alvin's argument suggest that people of the 21st century should have an open mindset and should be ready for changes that is coming our ways. An example of this is how we should act when new tech emerged, instead of clinging to an obsolete product, we should try to understand and use the new technology to our own advantages.
+
+Rene Caryol piece of clothing: furcoat jacket
+
+5. It seems that just about every new technology that we bring to bear on improving our lives brings with it some downside, side effect or unintended consequence. However, technology is not neutral. Explain what this phrase means.
+
+Eventhough a piece of tech cannot think for itself, its developer can, and can leverage their ideas and view to create a piece of tech that please their needs, from helping other to harming them.
+
+For example, General Electric and Boeing are some of the leading companies that research, develope, innovate and manufacturer things from planes, washing machines, to machine guns and war helicopters.
+
+So technologies is a multifaceted industry, and encompassed a wide range of solutions, and the connotation of the solution is upto the intention of the developer, henceforth enforcing the idea that technology is not neutral.
