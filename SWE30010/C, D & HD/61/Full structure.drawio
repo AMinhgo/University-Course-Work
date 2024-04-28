@@ -1,0 +1,241 @@
+<mxfile host="Electron" modified="2024-03-08T13:29:26.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="G6KxQhHjxmQIuHsvRmSC" version="23.1.5" type="device">
+  <diagram name="Page-1" id="knRfgs-JKLc_IuuAq2xP">
+    <mxGraphModel dx="2785" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-1" value="&lt;font color=&quot;#ffffff&quot;&gt;HR database schema design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#000000;fillColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="80" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-5" value="Identify and prioritize the key entities in the HR domain, such as employees, departments, and positions." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="100" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-6" value="Create an entity-relationship diagram (ERD) to visualize the relationships between different entities." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="100" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-7" value="Define the attributes and data types for each entity based on the information to be stored." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="100" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-8" value="Normalize the database schema to eliminate redundancy and minimize data anomalies." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="100" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-9" value="Review and optimize the schema design for performance and scalability, considering factors like indexing and query optimization." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="100" y="600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-10" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeColor=#000000;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-1" target="RmJ5_ofuvu7ZLegVzyln-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="220" as="sourcePoint" />
+            <mxPoint x="20" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-11" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-5" target="RmJ5_ofuvu7ZLegVzyln-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="90" as="sourcePoint" />
+            <mxPoint x="210" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-12" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-6" target="RmJ5_ofuvu7ZLegVzyln-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="210" as="sourcePoint" />
+            <mxPoint x="210" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-13" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-7" target="RmJ5_ofuvu7ZLegVzyln-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="330" as="sourcePoint" />
+            <mxPoint x="210" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-14" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-8" target="RmJ5_ofuvu7ZLegVzyln-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="450" as="sourcePoint" />
+            <mxPoint x="210" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-15" value="&lt;font color=&quot;#ffffff&quot;&gt;HRM Web Application&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;fontStyle=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="-160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-16" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#CC6600;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-15" target="RmJ5_ofuvu7ZLegVzyln-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="150" as="sourcePoint" />
+            <mxPoint x="410" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-17" value="&lt;font color=&quot;#ffffff&quot;&gt;Manager Portal&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#000000;fillColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="360" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-18" value="Gather requirements from managers and stakeholders to understand their needs and expectations." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="380" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-19" value="Create user stories or use cases to document the desired functionality of the portal." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="380" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-20" value="Develop features such as employee performance dashboards, task management tools, and reporting capabilities." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="380" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-21" value="Implement role-based access control to ensure that managers only have access to relevant data and functionality." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="380" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-22" value="Conduct front and&lt;br&gt;back-end testing to ensure the application meets business expectations." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="380" y="600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-23" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeColor=#000000;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-17" target="RmJ5_ofuvu7ZLegVzyln-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="220" as="sourcePoint" />
+            <mxPoint x="300" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-24" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-18" target="RmJ5_ofuvu7ZLegVzyln-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="90" as="sourcePoint" />
+            <mxPoint x="490" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-25" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-19" target="RmJ5_ofuvu7ZLegVzyln-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="210" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-26" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-20" target="RmJ5_ofuvu7ZLegVzyln-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="330" as="sourcePoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-27" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-21" target="RmJ5_ofuvu7ZLegVzyln-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="450" as="sourcePoint" />
+            <mxPoint x="490" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-28" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#CC6600;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-15" target="RmJ5_ofuvu7ZLegVzyln-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="-70" as="sourcePoint" />
+            <mxPoint x="210" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="-40" />
+              <mxPoint x="480" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-29" value="&lt;font color=&quot;#ffffff&quot;&gt;Website for HRM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#000000;fillColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="-240" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-30" value="Develop a sitemap to&lt;br&gt;organize the structure and navigation of the website." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-31" value="Design and implement a&lt;br&gt;responsive front-end using HTML, CSS, and JavaScript frameworks." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-32" value="Fine tune the UI code to&lt;br&gt;make it closely align to the UX/UI." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-33" value="Set up a back-end system&lt;br&gt;to handle user authentication, database interactions, and business logic using&lt;br&gt;technologies like Node.js or Django" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-34" value="Conduct front and&lt;br&gt;back-end testing to ensure the application meets business expectations." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-35" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeColor=#000000;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-29" target="RmJ5_ofuvu7ZLegVzyln-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-350" y="220" as="sourcePoint" />
+            <mxPoint x="-300" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-36" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-30" target="RmJ5_ofuvu7ZLegVzyln-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="90" as="sourcePoint" />
+            <mxPoint x="-110" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-37" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-31" target="RmJ5_ofuvu7ZLegVzyln-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="210" as="sourcePoint" />
+            <mxPoint x="-110" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-38" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-32" target="RmJ5_ofuvu7ZLegVzyln-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="330" as="sourcePoint" />
+            <mxPoint x="-110" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-39" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-33" target="RmJ5_ofuvu7ZLegVzyln-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="450" as="sourcePoint" />
+            <mxPoint x="-110" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-40" value="&lt;font color=&quot;#ffffff&quot;&gt;Product UX/UI Design&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#000000;fillColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="-520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-41" value="Research the overall design&lt;div&gt;of current Gemadept’s system.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-42" value="Sketch initial wireframes on paper or using digital tools to visualize the basic layout and flow." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-43" value="Design high-fidelity mockups using design software like Sketch or Figma, incorporating branding elements and visual styles." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-44" value="Come up with the UI code and structure." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-45" value="Conduct usability testing with a sample group of users to gather feedback on the design and iterate accordingly." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-46" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeColor=#000000;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-40" target="RmJ5_ofuvu7ZLegVzyln-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="220" as="sourcePoint" />
+            <mxPoint x="-580" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-47" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-41" target="RmJ5_ofuvu7ZLegVzyln-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="90" as="sourcePoint" />
+            <mxPoint x="-390" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-48" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-42" target="RmJ5_ofuvu7ZLegVzyln-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="210" as="sourcePoint" />
+            <mxPoint x="-390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-49" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-43" target="RmJ5_ofuvu7ZLegVzyln-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="330" as="sourcePoint" />
+            <mxPoint x="-390" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-50" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#00BDBD;fontColor=#FFFFFF;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-44" target="RmJ5_ofuvu7ZLegVzyln-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="450" as="sourcePoint" />
+            <mxPoint x="-390" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-51" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#CC6600;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-15" target="RmJ5_ofuvu7ZLegVzyln-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="-70" as="sourcePoint" />
+            <mxPoint x="490" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="-40" />
+              <mxPoint x="-120" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmJ5_ofuvu7ZLegVzyln-52" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#CC6600;" parent="1" source="RmJ5_ofuvu7ZLegVzyln-15" target="RmJ5_ofuvu7ZLegVzyln-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240.07" y="-80" as="sourcePoint" />
+            <mxPoint x="-400.07" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="-40" />
+              <mxPoint x="-400" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

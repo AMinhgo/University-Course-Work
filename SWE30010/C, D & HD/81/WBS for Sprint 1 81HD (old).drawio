@@ -1,0 +1,1920 @@
+<mxfile host="app.diagrams.net" modified="2024-04-03T17:29:28.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="rxCzatkrxdfFMxT-ELjk" version="24.1.0" type="device">
+  <diagram name="Page-1" id="HjEfFVcOn5wYmAL-eqvq">
+    <mxGraphModel dx="1070" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-1" value="Sprint 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="856.37" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-3" value="Website design and wireframe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="858.25" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-4" value="&lt;span id=&quot;docs-internal-guid-09089c83-7fff-37a3-81c9-b73c068fc7bd&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Basic website with task card creation function.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="867.87" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-7" value="&lt;span id=&quot;docs-internal-guid-866f0a19-7fff-3dfa-3f20-590f98e86f77&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Signup and Login feature&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="867.87" y="1699.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-10" value="13 hours" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1017.75" y="273" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-11" value="Create a sitemap to&lt;br&gt;organize the structure and navigation of the website." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="432" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-15" value="Internal meeting to discuss about the requirement of users, and how the requirements fits into current planning." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1078.25" y="433" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-21" value="Record opinions and suggestions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1142" y="655" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-22" value="Come up with the structure and navigation based on the sitemap of the website" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="876" y="544" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-23" value="Discuss with team on sitemap/architectural appropriateness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="769" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-30" value="Create basic HTML mockup to test navigation capability." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="873.75" y="655" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-80" value="Requirement collection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="365" y="365" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-81" value="Architecture Design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="592" y="365" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-85" value="Testing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1112.75" y="365" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-86" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1352.25" y="365" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-87" value="Gain requirement of website from client and analyse their needs." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="433" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-88" value="Create a development package ready for push to production." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1317.75" y="435" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-89" value="Ensure all the code has been finalised and tested." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1377.75" y="544" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-90" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1387.75" y="694" as="sourcePoint" />
+            <mxPoint x="1367.75" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1367.75" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-91" value="Compress all the code component as well as intrsuctional guide (if any)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1377.75" y="659.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-92" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-91" target="OfvrkdM47xdFP-2DTVX5-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1388.25" y="594" as="sourcePoint" />
+            <mxPoint x="1377.75" y="525" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1367.25" y="700" />
+              <mxPoint x="1367.25" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-93" value="Dev and Lead (spectate): 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1355.75" y="624" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-94" value="Dev and Lead (spectate): 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1355.75" y="740" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-98" value="QA: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="733" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-130" value="Set up meeting with stakeholders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="544" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-131" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.5" y="692" as="sourcePoint" />
+            <mxPoint x="380.5" y="514" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380.5" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-132" value="Record requirements and suggestion for development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="649" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-133" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-132" target="OfvrkdM47xdFP-2DTVX5-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.5" y="797" as="sourcePoint" />
+            <mxPoint x="380.5" y="619" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380.5" y="689" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-134" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="851.75" y="621" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-136" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="850" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-137" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="854" y="740" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-138" value="Lead: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="729" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-139" value="Lead: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="621" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-145" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-11" target="OfvrkdM47xdFP-2DTVX5-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="667.5" y="442" as="sourcePoint" />
+            <mxPoint x="868.5" y="227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-146" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-87" target="OfvrkdM47xdFP-2DTVX5-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="667.5" y="442" as="sourcePoint" />
+            <mxPoint x="667.5" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-147" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-15" target="OfvrkdM47xdFP-2DTVX5-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1142.25" y="192" as="sourcePoint" />
+            <mxPoint x="1192.25" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-148" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-88" target="OfvrkdM47xdFP-2DTVX5-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1188.25" y="443" as="sourcePoint" />
+            <mxPoint x="1188.25" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-150" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-81" target="OfvrkdM47xdFP-2DTVX5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="798" y="375" as="sourcePoint" />
+            <mxPoint x="798" y="328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-151" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-80" target="OfvrkdM47xdFP-2DTVX5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-145.2" y="258" as="sourcePoint" />
+            <mxPoint x="514.8" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-152" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-3" target="OfvrkdM47xdFP-2DTVX5-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1085.25" y="278" as="sourcePoint" />
+            <mxPoint x="1972.25" y="231" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="918" y="341" />
+              <mxPoint x="1178" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-153" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-3" target="OfvrkdM47xdFP-2DTVX5-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="271" as="sourcePoint" />
+            <mxPoint x="1718.75" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="918" y="341" />
+              <mxPoint x="1418" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-155" value="Develop crude HTML mockup into responsive front end&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="692.12" y="1103" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-157" value="Set up a back-end system&lt;br&gt;to handle task card.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="939.87" y="1103" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-160" value="Code database connection and interactions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="999.87" y="1417" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-161" value="Code task card creation function" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="999.87" y="1200" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-176" value="Using premade template or make CSS style and implement it." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="755.12" y="1470" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-177" value="Implement responsive features to the UI with Vue JS for the main interface (buttons, sliders, animation, etc.)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="755.12" y="1200.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-202" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-177">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680.12" y="1849" as="sourcePoint" />
+            <mxPoint x="742.12" y="1195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-203" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-176" target="OfvrkdM47xdFP-2DTVX5-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="584.12" y="1747.5" as="sourcePoint" />
+            <mxPoint x="742.12" y="1195" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="742" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-220" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-157" target="OfvrkdM47xdFP-2DTVX5-161">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="853.87" y="1207" as="sourcePoint" />
+            <mxPoint x="823.87" y="1222" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="972.62" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-221" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-160">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="972.62" y="1183" as="sourcePoint" />
+            <mxPoint x="954.87" y="1222" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="972.62" y="1183" />
+              <mxPoint x="972.62" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-222" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-318" target="OfvrkdM47xdFP-2DTVX5-350">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1672.8600000000001" y="1100" as="sourcePoint" />
+            <mxPoint x="1655.1100000000001" y="1212" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1276.12" y="1150" />
+              <mxPoint x="1276.12" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-226" value="Front-end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="722.87" y="1057" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-227" value="Back-end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="974.37" y="1057" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-242" value="QA: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1219.87" y="1277" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-249" value="QA: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1209.62" y="1500" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-271" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="733.12" y="1550" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-283" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-324" target="OfvrkdM47xdFP-2DTVX5-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="993.37" y="1019.4999999999998" as="sourcePoint" />
+            <mxPoint x="2001.87" y="906" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1039.62" y="1014" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-284" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-226">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="781.62" y="1050" as="sourcePoint" />
+            <mxPoint x="862.37" y="1019.4999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="788.62" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-285" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-155" target="OfvrkdM47xdFP-2DTVX5-226">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="798.87" y="1067" as="sourcePoint" />
+            <mxPoint x="1077.87" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="788.62" y="1103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-287" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-157" target="OfvrkdM47xdFP-2DTVX5-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="813.87" y="1113" as="sourcePoint" />
+            <mxPoint x="741.87" y="1082" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-292" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1003.62" y="1030" as="sourcePoint" />
+            <mxPoint x="927.87" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-293" value="Development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="852.25" y="365" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-294" value="Create crude HTML mockup so as to based the app around" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="817.75" y="432" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-295" value="Research and create application&#39;s architectural design (for team)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="615.5" y="651" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-297" value="Research and create application&#39;s high level design (for teams and client)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="616.25" y="760.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-29" value="Draw a map to connect all the possible itteration of the tabs." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="616.25" y="544" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-135" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="621" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-299" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="594.25" y="729" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-300" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="840.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-301" value="Test navigation functionality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="544" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-302" value="QA: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="619" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-303" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-3" target="OfvrkdM47xdFP-2DTVX5-293">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="798" y="328" as="sourcePoint" />
+            <mxPoint x="1428" y="375" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="918" y="321" />
+              <mxPoint x="918" y="321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-304" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-293" target="OfvrkdM47xdFP-2DTVX5-294">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="798" y="297" as="sourcePoint" />
+            <mxPoint x="928" y="344" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="410" />
+              <mxPoint x="920" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-306" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="592" y="512" as="sourcePoint" />
+            <mxPoint x="592" y="581" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="592" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-307" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-295">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="591.5" y="512" as="sourcePoint" />
+            <mxPoint x="615.5" y="584" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="592" y="690" />
+              <mxPoint x="616" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-308" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-297">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="591.75" y="640" as="sourcePoint" />
+            <mxPoint x="616.25" y="819" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="592" y="801" />
+              <mxPoint x="616" y="801" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-309" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="851.75" y="513" as="sourcePoint" />
+            <mxPoint x="875.75" y="585" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="851.75" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-310" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.003;entryY=0.449;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="851.25" y="513" as="sourcePoint" />
+            <mxPoint x="875.75" y="692" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="851" y="691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-312" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="513" as="sourcePoint" />
+            <mxPoint x="1144" y="585" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-313" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=-0.001;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1119.5" y="513" as="sourcePoint" />
+            <mxPoint x="1130" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1119" y="691" />
+              <mxPoint x="1130" y="691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-314" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1119.75" y="641" as="sourcePoint" />
+            <mxPoint x="1144" y="802" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="802" />
+              <mxPoint x="1144" y="802" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-315" value="19.5 (+- 4) hours (remain -7.5)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010.3699999999999" y="920" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-316" value="Requirement collection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="226.12" y="1000" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-317" value="Architecture Design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="476.12" y="1000" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-318" value="Testing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1206.12" y="1000" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-319" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1445.62" y="1000" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-320" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-317" target="OfvrkdM47xdFP-2DTVX5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="801.74" y="887" as="sourcePoint" />
+            <mxPoint x="921.74" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="541.62" y="990" />
+              <mxPoint x="927.62" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-321" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-316" target="OfvrkdM47xdFP-2DTVX5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-141.45999999999998" y="770" as="sourcePoint" />
+            <mxPoint x="921.74" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="291.62" y="990" />
+              <mxPoint x="927.62" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-322" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-318" source="OfvrkdM47xdFP-2DTVX5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="921.74" y="830" as="sourcePoint" />
+            <mxPoint x="1975.9900000000002" y="743" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="927.62" y="990" />
+              <mxPoint x="1271.62" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-323" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-319" source="OfvrkdM47xdFP-2DTVX5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="921.74" y="830" as="sourcePoint" />
+            <mxPoint x="1722.4900000000002" y="817" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="927.62" y="990" />
+              <mxPoint x="1511.62" y="990" />
+              <mxPoint x="1511.62" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-324" value="Development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="862.37" y="1000" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-350" value="Conduct testing internally to ensure there are little to no issue when using the feature and its relevant components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1171.62" y="1103" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-351" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-350" target="OfvrkdM47xdFP-2DTVX5-352">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1145.62" y="1036" as="sourcePoint" />
+            <mxPoint x="1282.6200000000003" y="1209" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1206.12" y="1237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-352" value="Perform testing of each function (task card creation, deletion)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1231.62" y="1197" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-353" value="Relay information of issues and performance to Developers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1231.62" y="1420" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-355" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-350" target="OfvrkdM47xdFP-2DTVX5-353">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1216.12" y="1193" as="sourcePoint" />
+            <mxPoint x="1252.12" y="1247" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1206.62" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-356" value="Create a development package ready for push to production." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1422.87" y="1103" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-357" value="Ensure all the code has been finalised and tested." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1482.87" y="1200" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-358" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-357">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1492.87" y="1362" as="sourcePoint" />
+            <mxPoint x="1472.87" y="1183" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1472.62" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-359" value="Compress all the code component as well as intrsuctional guide (if any)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1482.87" y="1315.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-360" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-359" target="OfvrkdM47xdFP-2DTVX5-356">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1493.37" y="1262" as="sourcePoint" />
+            <mxPoint x="1482.87" y="1193" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1472.62" y="1356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-361" value="Dev and Lead (spectate): 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460.87" y="1280" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-362" value="Dev and Lead (spectate): 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460.87" y="1396" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-363" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-319" target="OfvrkdM47xdFP-2DTVX5-356">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1282.12" y="1039" as="sourcePoint" />
+            <mxPoint x="1282.12" y="1113" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1516.12" y="1143" />
+              <mxPoint x="1516.12" y="1143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-364" value="Review architecture design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="501.62" y="1210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-367" value="Review documented requirement and planning before development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="251.62" y="1210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-368" value="Refine development after testing*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="295.76" y="1414" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-369" value="When error or something goes wrong in the testing phase,&amp;nbsp;&lt;div&gt;respective code needed to be sent back for fixing or patching&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="1521" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-370" value="Front-end dev: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271.76" y="1494" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-371" value="QA: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1219.87" y="1387" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-372" value="Perform testing of each function (UI Testing)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1231.62" y="1307" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-373" value="Code task card deletion function" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="999.87" y="1307" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-374" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;exitX=0.17;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-350" target="OfvrkdM47xdFP-2DTVX5-372">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1216.62" y="1193" as="sourcePoint" />
+            <mxPoint x="1241.62" y="1247" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1205.62" y="1347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-376" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="981.37" y="1277" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-377" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="981.37" y="1384" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-378" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="981.37" y="1497" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-379" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;exitX=0.159;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-157" target="OfvrkdM47xdFP-2DTVX5-373">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="982.62" y="1193" as="sourcePoint" />
+            <mxPoint x="1009.62" y="1250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="971.62" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-380" value="Discussed product requirement and planning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="191.62" y="1103" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-381" value="Develop website based on the architectural design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="441.62" y="1103" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-382" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-380" target="OfvrkdM47xdFP-2DTVX5-316">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="131.62" y="1070" as="sourcePoint" />
+            <mxPoint x="767.62" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="291.62" y="1100" />
+              <mxPoint x="291.62" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-383" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="541.2" y="1103" as="sourcePoint" />
+            <mxPoint x="541.2" y="1029" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="541.2" y="1100" />
+              <mxPoint x="541.2" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-384" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="251.62" y="1254" as="sourcePoint" />
+            <mxPoint x="226.12" y="1183" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="226.62" y="1254" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-385" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="501.62" y="1254" as="sourcePoint" />
+            <mxPoint x="476.12" y="1183" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="476.62" y="1254" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-386" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="479.62" y="1290" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-387" value="Everyone: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="229.62" y="1290" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-388" value="Prepare, research elements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="501.62" y="1320" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-389" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="479.62" y="1400" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-390" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-388">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="501.62" y="1254" as="sourcePoint" />
+            <mxPoint x="476.12" y="1183" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="476.62" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-391" value="Each sprint 80" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="867.75" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-392" value="This has 5 products -&amp;gt; 16 hours" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="822.75" y="130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-393" value="Develop crude HTML mockup into responsive front end&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="689.75" y="1892" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-394" value="Code user Sign up" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="937.5" y="1892" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-395" value="Create function to further clean and store username in the database&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1001.75" y="2370.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-396" value="Create API to call Google&#39;s sign up service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1005.25" y="2260" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-397" value="Using Regex to validate inputs and eliminate unwanted ones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="750.75" y="2212" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-398" value="Implement CSS template made to ensure consistency" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="752.75" y="2099.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-399" value="Implement responsive features to the Login UI (buttons, sliders, animation, etc.)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="752.75" y="1989.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-400" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-399">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677.75" y="2638" as="sourcePoint" />
+            <mxPoint x="739.75" y="1984" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-401" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-398">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="581.75" y="2536.5" as="sourcePoint" />
+            <mxPoint x="739.75" y="1984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740.25" y="2139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-402" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-397" target="OfvrkdM47xdFP-2DTVX5-393">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689.25" y="2322" as="sourcePoint" />
+            <mxPoint x="739.75" y="1984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740.25" y="2262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-403" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-394" target="OfvrkdM47xdFP-2DTVX5-396">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="971.5722222222222" y="2262.5" as="sourcePoint" />
+            <mxPoint x="822.85" y="2301.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="972" y="2320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-404" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-395" source="OfvrkdM47xdFP-2DTVX5-394">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="971.6" y="2262.5" as="sourcePoint" />
+            <mxPoint x="953.85" y="2301.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="972" y="2411" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-405" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-420" target="OfvrkdM47xdFP-2DTVX5-427">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1861.2400000000002" y="1880" as="sourcePoint" />
+            <mxPoint x="1843.4900000000002" y="1992" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1464.5" y="1930" />
+              <mxPoint x="1464.5" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-406" value="Front-end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="720.5" y="1846" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-407" value="Back-end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1078.62" y="1846" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-408" value="QA: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1426" y="2066" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-409" value="QA: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1415.75" y="2289" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-410" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="733.12" y="2292" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-411" value="Developers: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730.75" y="2179.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-412" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="727.75" y="2069.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-413" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-426" target="OfvrkdM47xdFP-2DTVX5-407">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="991" y="1808.4999999999998" as="sourcePoint" />
+            <mxPoint x="1999.5" y="1695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1144" y="1804" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-414" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-406">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="779.25" y="1839" as="sourcePoint" />
+            <mxPoint x="860" y="1808.4999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="786.25" y="1809" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-415" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-393" target="OfvrkdM47xdFP-2DTVX5-406">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="796.5" y="1856" as="sourcePoint" />
+            <mxPoint x="1075.5" y="1819" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="786.25" y="1892" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-416" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-394" target="OfvrkdM47xdFP-2DTVX5-407">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="811.5" y="1902" as="sourcePoint" />
+            <mxPoint x="739.5" y="1871" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-417" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="925.63" y="1759.5" as="sourcePoint" />
+            <mxPoint x="925.5" y="1794" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-418" value="Requirement collection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="223.75" y="1789" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-419" value="Architecture Design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="473.75" y="1789" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-420" value="Testing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1394.5" y="1789" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-421" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1634" y="1789" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-422" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-419">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.37" y="1676" as="sourcePoint" />
+            <mxPoint x="925.63" y="1759.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539.25" y="1779" />
+              <mxPoint x="925.25" y="1779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-423" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-418">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-143.82999999999993" y="1559" as="sourcePoint" />
+            <mxPoint x="925.63" y="1759.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="289.25" y="1779" />
+              <mxPoint x="925.25" y="1779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-424" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-420">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="925.63" y="1759.5" as="sourcePoint" />
+            <mxPoint x="1973.6200000000003" y="1532" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="926" y="1779" />
+              <mxPoint x="1460" y="1779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-425" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-421">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="925.63" y="1759.5" as="sourcePoint" />
+            <mxPoint x="1720.1200000000003" y="1606" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="926" y="1779" />
+              <mxPoint x="1700" y="1779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-426" value="Development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1789" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-427" value="Conduct testing internally to ensure there are little to no issue when using the feature and its relevant components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1377.75" y="1892" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-428" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-427" target="OfvrkdM47xdFP-2DTVX5-429">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1351.75" y="1825" as="sourcePoint" />
+            <mxPoint x="1488.7500000000005" y="1998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1412.25" y="2026" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-429" value="Perform testing of each function sign up/login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1437.75" y="1986" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-430" value="Relay information of issues and performance to Developers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1437.75" y="2209" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-431" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-427" target="OfvrkdM47xdFP-2DTVX5-430">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1422.25" y="1982" as="sourcePoint" />
+            <mxPoint x="1458.25" y="2036" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1412.75" y="2249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-432" value="Create a development package ready for push to production." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1611.25" y="1883" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-433" value="Ensure all the code has been finalised and tested." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1671.25" y="1980" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-434" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-433">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1681.25" y="2142" as="sourcePoint" />
+            <mxPoint x="1661.25" y="1963" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1661" y="2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-435" value="Compress all the code component as well as intrsuctional guide (if any)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1671.25" y="2095.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-436" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-435" target="OfvrkdM47xdFP-2DTVX5-432">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1681.75" y="2042" as="sourcePoint" />
+            <mxPoint x="1671.25" y="1973" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1661" y="2136" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-437" value="Dev and Lead (spectate): 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1649.25" y="2060" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-438" value="Dev and Lead (spectate): 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1649.25" y="2176" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-439" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-421" target="OfvrkdM47xdFP-2DTVX5-432">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1470.5" y="1819" as="sourcePoint" />
+            <mxPoint x="1470.5" y="1893" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1704.5" y="1923" />
+              <mxPoint x="1704.5" y="1923" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-440" value="Review architecture design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="495.75" y="1989.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-441" value="Review documented requirement and planning before development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="245.75" y="1989.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-442" value="Refine development after testing*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="373.63" y="2159.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-443" value="When error or something goes wrong in the testing phase,&amp;nbsp;&lt;div&gt;respective code needed to be sent back for fixing or patching&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="276.3800000000001" y="2269.5" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-444" value="Front-end dev: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349.63" y="2239.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-445" value="QA: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1426" y="2176" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-446" value="Perform testing of each function (UI Testing)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1437.75" y="2096" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-447" value="Create function to hash and store user&#39;s password in the database&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1001.75" y="2483.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-448" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;exitX=0.17;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-427" target="OfvrkdM47xdFP-2DTVX5-446">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1422.75" y="1982" as="sourcePoint" />
+            <mxPoint x="1447.75" y="2036" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1411.75" y="2136" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-449" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="986.75" y="2337" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-450" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="983.25" y="2560.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-451" value="Developers: 90 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="983.25" y="2450.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-452" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="972.0222222222224" y="1972" as="sourcePoint" />
+            <mxPoint x="1003.75" y="2551" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="972" y="2551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-453" value="Discussed product requirement and planning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="189.25" y="1892" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-454" value="Develop website based on the architectural design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="439.25" y="1892" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-455" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-453" target="OfvrkdM47xdFP-2DTVX5-418">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129.25" y="1859" as="sourcePoint" />
+            <mxPoint x="765.25" y="1829" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="289.25" y="1889" />
+              <mxPoint x="289.25" y="1889" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-456" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="538.83" y="1892" as="sourcePoint" />
+            <mxPoint x="538.83" y="1818" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="538.83" y="1889" />
+              <mxPoint x="538.83" y="1889" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-457" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249.25" y="2043" as="sourcePoint" />
+            <mxPoint x="223.75" y="1972" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="224.25" y="2043" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-458" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.25" y="2043" as="sourcePoint" />
+            <mxPoint x="473.75" y="1972" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="474.25" y="2043" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-459" value="Developers: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="473.75" y="2069.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-460" value="Everyone: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="223.75" y="2069.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-464" value="Set up MySQL database for the website" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="997.5" y="1986" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-465" value="Create tables to store user&#39;s credential" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1028.37" y="2165.5" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-466" value="Link website&#39;s back end to MySQL DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1028.37" y="2072.5" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-467" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="999.87" y="2129.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-468" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="998.85" y="2225.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-469" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-464">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="972" y="1970.5" as="sourcePoint" />
+            <mxPoint x="1005" y="2318.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="972" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-470" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-466">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010.37" y="2066" as="sourcePoint" />
+            <mxPoint x="1036.37" y="2125.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="2103" />
+              <mxPoint x="1028" y="2103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-471" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-464" target="OfvrkdM47xdFP-2DTVX5-465">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020.37" y="2076" as="sourcePoint" />
+            <mxPoint x="1038" y="2113" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="2196" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-472" value="Code user Log in" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1151.63" y="1892" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-473" value="Create function to connect to the DB and get the username" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1208.8700000000001" y="2094.25" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-474" value="Create API to call Google&#39;s sign in service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1212.3700000000001" y="1983.75" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-475" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-472" target="OfvrkdM47xdFP-2DTVX5-474">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1185.7022222222222" y="2262.5" as="sourcePoint" />
+            <mxPoint x="1036.98" y="2301.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1186" y="2024" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-476" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-472" target="OfvrkdM47xdFP-2DTVX5-473">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1185.73" y="2262.5" as="sourcePoint" />
+            <mxPoint x="1167.98" y="2301.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1186" y="2140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-477" value="Create function to connect to fetch passwords." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1208.8700000000001" y="2207.25" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-478" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1193.8700000000001" y="2060.75" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-479" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200.8700000000001" y="2450.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-480" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190.3700000000001" y="2174.25" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-481" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-477">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1186.1522222222225" y="1972" as="sourcePoint" />
+            <mxPoint x="1217.88" y="2551" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1186" y="2240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-495" value="Function needs to compare login password and stored password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1236.87" y="2390.5" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-496" value="Function needs to fetch passwords from DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1236.87" y="2295.5" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-497" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220.29" y="2287.25" as="sourcePoint" />
+            <mxPoint x="1237.92" y="2324.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1219.92" y="2324.25" />
+              <mxPoint x="1237.92" y="2324.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-498" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1219.92" y="2287.25" as="sourcePoint" />
+            <mxPoint x="1237.92" y="2417.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1219.92" y="2417.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-499" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200.8700000000001" y="2355.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-500" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-472" target="OfvrkdM47xdFP-2DTVX5-407">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1048" y="1902" as="sourcePoint" />
+            <mxPoint x="1154" y="1885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-501" value="21 (+- 4) hours (remain -5)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1017.7499999999999" y="1714.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-502" value="&lt;span style=&quot;font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;Feature to hold tasks card defined.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-503" value="Develop crude HTML mockup into responsive front end&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="701.75" y="2833" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-504" value="Set up a back-end system&lt;br&gt;to handle task card grouping.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="949.5" y="2833" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-505" value="Code database connection and interactions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1010.87" y="3257" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-506" value="Code grouping creation function" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1009.5" y="2930" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-507" value="Using premade template or make CSS style and implement it." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="764.75" y="3040.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-508" value="Implement responsive features to the UI with Vue JS for the grouping feature (buttons, sliders, animation, etc.)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="764.75" y="2930.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-509" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-508">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689.75" y="3579" as="sourcePoint" />
+            <mxPoint x="751.75" y="2925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-510" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-507" target="OfvrkdM47xdFP-2DTVX5-503">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="593.75" y="3477.5" as="sourcePoint" />
+            <mxPoint x="751.75" y="2925" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="751.6300000000001" y="3080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-511" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-504" target="OfvrkdM47xdFP-2DTVX5-506">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="863.5" y="2937" as="sourcePoint" />
+            <mxPoint x="833.5" y="2952" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="982.25" y="2970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-512" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-505">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="982.25" y="2913" as="sourcePoint" />
+            <mxPoint x="964.5" y="2952" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="982.25" y="2913" />
+              <mxPoint x="982.25" y="3080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-513" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-528" target="OfvrkdM47xdFP-2DTVX5-535">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1682.4900000000002" y="2830" as="sourcePoint" />
+            <mxPoint x="1664.7400000000002" y="2942" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1285.75" y="2880" />
+              <mxPoint x="1285.75" y="2880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-514" value="Front-end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="2787" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-515" value="Back-end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="984" y="2787" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-516" value="QA: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1229.5" y="3007" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-517" value="QA: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1231.75" y="3237" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-518" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="742.75" y="3120.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-519" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="739.75" y="3010.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-520" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-534" target="OfvrkdM47xdFP-2DTVX5-515">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1003" y="2749.5" as="sourcePoint" />
+            <mxPoint x="2011.5" y="2636" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1049.25" y="2744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-521" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-514">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="791.25" y="2780" as="sourcePoint" />
+            <mxPoint x="872" y="2749.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="798.25" y="2750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-522" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-503" target="OfvrkdM47xdFP-2DTVX5-514">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="808.5" y="2797" as="sourcePoint" />
+            <mxPoint x="1087.5" y="2760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="798.25" y="2833" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-523" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-504" target="OfvrkdM47xdFP-2DTVX5-515">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="823.5" y="2843" as="sourcePoint" />
+            <mxPoint x="751.5" y="2812" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-524" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-502">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1013.25" y="2760" as="sourcePoint" />
+            <mxPoint x="937.5" y="2735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-525" value="14 (+- 4) hours (remain 2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="2650" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-526" value="Requirement collection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="235.75" y="2730" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-527" value="Architecture Design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="485.75" y="2730" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-528" value="Testing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1215.75" y="2730" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-529" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1455.25" y="2730" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-530" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-527" target="OfvrkdM47xdFP-2DTVX5-502">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="811.3699999999999" y="2617" as="sourcePoint" />
+            <mxPoint x="931.3699999999999" y="2560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="551.25" y="2720" />
+              <mxPoint x="937.25" y="2720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-531" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-526" target="OfvrkdM47xdFP-2DTVX5-502">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-131.82999999999993" y="2500" as="sourcePoint" />
+            <mxPoint x="931.3699999999999" y="2560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="301.25" y="2720" />
+              <mxPoint x="937.25" y="2720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-532" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-502" target="OfvrkdM47xdFP-2DTVX5-528">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="931.3699999999999" y="2560" as="sourcePoint" />
+            <mxPoint x="1985.6200000000003" y="2473" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="937.25" y="2720" />
+              <mxPoint x="1281.25" y="2720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-533" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-502" target="OfvrkdM47xdFP-2DTVX5-529">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="931.3699999999999" y="2560" as="sourcePoint" />
+            <mxPoint x="1732.1200000000003" y="2547" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="937.25" y="2720" />
+              <mxPoint x="1521.25" y="2720" />
+              <mxPoint x="1521.25" y="2730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-534" value="Development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="872" y="2730" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-535" value="Conduct testing internally to ensure there are little to no issue when using the feature and its relevant components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1192.87" y="2840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-536" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-535" target="OfvrkdM47xdFP-2DTVX5-537">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1166.87" y="2773" as="sourcePoint" />
+            <mxPoint x="1303.8700000000003" y="2946" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1227.37" y="2974" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-537" value="Perform testing of each function (grouping creation, deletion)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1252.87" y="2934" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-538" value="Relay information of issues and performance to Developers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1252.87" y="3157" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-539" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-535" target="OfvrkdM47xdFP-2DTVX5-538">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1237.37" y="2930" as="sourcePoint" />
+            <mxPoint x="1273.37" y="2984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1227.87" y="3197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-540" value="Create a development package ready for push to production." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1432.5" y="2833" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-541" value="Ensure all the code has been finalised and tested." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1492.5" y="2930" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-542" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-541">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1502.5" y="3092" as="sourcePoint" />
+            <mxPoint x="1482.5" y="2913" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1482.25" y="2970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-543" value="Compress all the code component as well as intrsuctional guide (if any)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1492.5" y="3045.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-544" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-543" target="OfvrkdM47xdFP-2DTVX5-540">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1503" y="2992" as="sourcePoint" />
+            <mxPoint x="1492.5" y="2923" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1482.25" y="3086" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-545" value="Dev and Lead (spectate): 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470.5" y="3010" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-546" value="Dev and Lead (spectate): 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470.5" y="3126" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-547" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-529" target="OfvrkdM47xdFP-2DTVX5-540">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1291.75" y="2769" as="sourcePoint" />
+            <mxPoint x="1291.75" y="2843" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1525.75" y="2873" />
+              <mxPoint x="1525.75" y="2873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-548" value="Review architecture design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="511.25" y="2940" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-549" value="Review documented requirement and planning before development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="261.25" y="2940" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-550" value="Refine development after testing*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="456.7500000000001" y="3137" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-551" value="When error or something goes wrong in the testing phase,&amp;nbsp;&lt;div&gt;respective code needed to be sent back for fixing or patching&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365.0000000000001" y="3240" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-552" value="QA: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1229.5" y="3117" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-553" value="Perform testing of each function (UI Testing)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1252.87" y="3044" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-554" value="Code group to accept and associate tasks cards" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1010.87" y="3147" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-555" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;exitX=0.17;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-535" target="OfvrkdM47xdFP-2DTVX5-553">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1237.87" y="2930" as="sourcePoint" />
+            <mxPoint x="1262.87" y="2984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1226.87" y="3084" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-556" value="Developers: 90 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="991" y="3007" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-557" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="992.37" y="3224" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-558" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="992.37" y="3337" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-559" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;exitX=0.159;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-504" target="OfvrkdM47xdFP-2DTVX5-554">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="992.25" y="2923" as="sourcePoint" />
+            <mxPoint x="1019.25" y="2980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="981" y="3190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-560" value="Discussed product requirement and planning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="201.25" y="2833" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-561" value="Develop website based on the architectural design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="451.25" y="2833" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-562" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-560" target="OfvrkdM47xdFP-2DTVX5-526">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="141.25" y="2800" as="sourcePoint" />
+            <mxPoint x="777.25" y="2770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="301.25" y="2830" />
+              <mxPoint x="301.25" y="2830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-563" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550.8299999999999" y="2833" as="sourcePoint" />
+            <mxPoint x="550.8299999999999" y="2759" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550.8299999999999" y="2830" />
+              <mxPoint x="550.8299999999999" y="2830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-564" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="261.25" y="2984" as="sourcePoint" />
+            <mxPoint x="235.75" y="2913" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="236.25" y="2984" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-565" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511.25" y="2984" as="sourcePoint" />
+            <mxPoint x="485.75" y="2913" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="486.25" y="2984" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-566" value="Developers: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489.25" y="3020" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-567" value="Everyone: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239.25" y="3020" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-572" value="&lt;span style=&quot;font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;Urgency assigned for tasks.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="887.13" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-573" value="Develop crude HTML mockup into responsive front end&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="711.38" y="3603" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-574" value="Set up a back-end system&lt;br&gt;to handle task card.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="959.13" y="3603" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-575" value="Code database connection and interactions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1019.13" y="3917" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-576" value="Code urgency assignment tag (low -&amp;gt; high)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1019.13" y="3700" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-577" value="Using premade template or make CSS style and implement it." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="774.38" y="3810.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-578" value="Implement responsive features to the UI with Vue JS for the urgency assignment (buttons, sliders, animation, etc.)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="774.38" y="3700.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-579" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-578">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="699.38" y="4349" as="sourcePoint" />
+            <mxPoint x="761.38" y="3695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-580" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-577" target="OfvrkdM47xdFP-2DTVX5-573">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="603.38" y="4247.5" as="sourcePoint" />
+            <mxPoint x="761.38" y="3695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="761.2600000000001" y="3850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-581" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-574" target="OfvrkdM47xdFP-2DTVX5-576">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="873.13" y="3707" as="sourcePoint" />
+            <mxPoint x="843.13" y="3722" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="991.88" y="3740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-582" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-575">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="991.88" y="3683" as="sourcePoint" />
+            <mxPoint x="974.13" y="3722" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="991.88" y="3683" />
+              <mxPoint x="991.88" y="3850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-583" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-598" target="OfvrkdM47xdFP-2DTVX5-605">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1692.1200000000003" y="3600" as="sourcePoint" />
+            <mxPoint x="1674.3700000000003" y="3712" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1295.38" y="3650" />
+              <mxPoint x="1295.38" y="3650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-584" value="Front-end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="742.13" y="3557" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-585" value="Back-end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="993.63" y="3557" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-586" value="QA: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1239.13" y="3777" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-587" value="QA: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1228.88" y="4000" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-588" value="Developers: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="752.38" y="3890.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-589" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="749.38" y="3780.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-590" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-604" target="OfvrkdM47xdFP-2DTVX5-585">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1012.63" y="3519.5" as="sourcePoint" />
+            <mxPoint x="2021.13" y="3406" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1058.88" y="3514" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-591" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-584">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800.88" y="3550" as="sourcePoint" />
+            <mxPoint x="881.63" y="3519.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="807.88" y="3520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-592" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-573" target="OfvrkdM47xdFP-2DTVX5-584">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="818.13" y="3567" as="sourcePoint" />
+            <mxPoint x="1097.13" y="3530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="807.88" y="3603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-593" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-574" target="OfvrkdM47xdFP-2DTVX5-585">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="833.13" y="3613" as="sourcePoint" />
+            <mxPoint x="761.13" y="3582" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-594" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-572">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1022.88" y="3530" as="sourcePoint" />
+            <mxPoint x="947.13" y="3505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-595" value="9.5 (+- 4) hours (remain 6.5)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1034.63" y="3420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-596" value="Requirement collection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="245.38" y="3500" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-597" value="Architecture Design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="495.38" y="3500" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-598" value="Testing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1225.38" y="3500" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-599" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1464.88" y="3500" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-600" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-597" target="OfvrkdM47xdFP-2DTVX5-572">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820.9999999999999" y="3387" as="sourcePoint" />
+            <mxPoint x="940.9999999999999" y="3330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560.88" y="3490" />
+              <mxPoint x="946.88" y="3490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-601" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-596" target="OfvrkdM47xdFP-2DTVX5-572">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-122.19999999999993" y="3270" as="sourcePoint" />
+            <mxPoint x="940.9999999999999" y="3330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310.88" y="3490" />
+              <mxPoint x="946.88" y="3490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-602" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-572" target="OfvrkdM47xdFP-2DTVX5-598">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940.9999999999999" y="3330" as="sourcePoint" />
+            <mxPoint x="1995.2500000000005" y="3243" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="946.88" y="3490" />
+              <mxPoint x="1290.88" y="3490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-603" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-572" target="OfvrkdM47xdFP-2DTVX5-599">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940.9999999999999" y="3330" as="sourcePoint" />
+            <mxPoint x="1741.7500000000005" y="3317" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="946.88" y="3490" />
+              <mxPoint x="1530.88" y="3490" />
+              <mxPoint x="1530.88" y="3500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-604" value="Development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="881.63" y="3500" width="131" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-605" value="Conduct testing internally to ensure there are little to no issue when using the feature and its relevant components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1190.88" y="3603" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-606" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-605" target="OfvrkdM47xdFP-2DTVX5-607">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1164.88" y="3536" as="sourcePoint" />
+            <mxPoint x="1301.8800000000006" y="3709" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1225.38" y="3737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-607" value="Perform testing of each function (task card creation, deletion)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1250.88" y="3697" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-608" value="Relay information of issues and performance to Developers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1250.88" y="3920" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-609" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-605" target="OfvrkdM47xdFP-2DTVX5-608">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1235.38" y="3693" as="sourcePoint" />
+            <mxPoint x="1271.38" y="3747" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1225.88" y="3960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-610" value="Create a development package ready for push to production." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1442.13" y="3603" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-611" value="Ensure all the code has been finalised and tested." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1502.13" y="3700" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-612" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-611">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1512.13" y="3862" as="sourcePoint" />
+            <mxPoint x="1492.13" y="3683" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1491.88" y="3740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-613" value="Compress all the code component as well as intrsuctional guide (if any)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1502.13" y="3815.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-614" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-613" target="OfvrkdM47xdFP-2DTVX5-610">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1512.63" y="3762" as="sourcePoint" />
+            <mxPoint x="1502.13" y="3693" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1491.88" y="3856" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-615" value="Dev and Lead (spectate): 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480.13" y="3780" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-616" value="Dev and Lead (spectate): 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480.13" y="3896" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-617" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-599" target="OfvrkdM47xdFP-2DTVX5-610">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1301.38" y="3539" as="sourcePoint" />
+            <mxPoint x="1301.38" y="3613" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1535.38" y="3643" />
+              <mxPoint x="1535.38" y="3643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-618" value="Review architecture design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="520.88" y="3710" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-619" value="Review documented requirement and planning before development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="270.88" y="3710" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-620" value="Refine development after testing*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="453.5000000000001" y="3859" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-621" value="When error or something goes wrong in the testing phase,&amp;nbsp;&lt;div&gt;respective code needed to be sent back for fixing or patching&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="376.2500000000001" y="3970" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-622" value="QA: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1239.13" y="3887" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-623" value="Perform testing of each function (UI Testing)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1250.88" y="3807" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-624" value="Code urgency dis-assignment tag" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1019.13" y="3807" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-625" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;exitX=0.17;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-605" target="OfvrkdM47xdFP-2DTVX5-623">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1235.88" y="3693" as="sourcePoint" />
+            <mxPoint x="1260.88" y="3747" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1224.88" y="3847" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-626" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000.63" y="3777" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-627" value="Developers: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000.63" y="3884" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-628" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000.63" y="3997" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-629" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;exitX=0.159;exitY=0.962;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-574" target="OfvrkdM47xdFP-2DTVX5-624">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1001.88" y="3693" as="sourcePoint" />
+            <mxPoint x="1028.88" y="3750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990.88" y="3850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-630" value="Discussed product requirement and planning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="210.88" y="3603" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-631" value="Develop website based on the architectural design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="460.88" y="3603" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-632" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OfvrkdM47xdFP-2DTVX5-630" target="OfvrkdM47xdFP-2DTVX5-596">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150.88" y="3570" as="sourcePoint" />
+            <mxPoint x="786.88" y="3540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310.88" y="3600" />
+              <mxPoint x="310.88" y="3600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-633" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560.4599999999999" y="3603" as="sourcePoint" />
+            <mxPoint x="560.4599999999999" y="3529" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560.4599999999999" y="3600" />
+              <mxPoint x="560.4599999999999" y="3600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-634" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270.88" y="3754" as="sourcePoint" />
+            <mxPoint x="245.38" y="3683" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="245.88" y="3754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-635" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520.88" y="3754" as="sourcePoint" />
+            <mxPoint x="495.38" y="3683" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="495.88" y="3754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-636" value="Developers: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="498.88" y="3790" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-637" value="Everyone: 30 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="248.88" y="3790" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-641" value="Code grouping deletion function" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="1012.25" y="3040.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-642" value="Developers: 90 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="993.75" y="3117.5" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-643" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-641">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="981.5" y="2913" as="sourcePoint" />
+            <mxPoint x="1009.5" y="2970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="981" y="3080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-646" value="Create UI code for main interface" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="784.37" y="1380" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-647" value="Create UI code for task cards" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;spacingLeft=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="784.37" y="1287" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-648" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="755.87" y="1344" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-649" value="Developers: 60 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="754.85" y="1440" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-650" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-647">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="766.37" y="1280.5" as="sourcePoint" />
+            <mxPoint x="792.37" y="1340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="766.0000000000001" y="1317.5" />
+              <mxPoint x="784.0000000000001" y="1317.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-651" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=4;spacingRight=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OfvrkdM47xdFP-2DTVX5-646">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="766.0000000000001" y="1280.5" as="sourcePoint" />
+            <mxPoint x="794.0000000000001" y="1327.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="766.0000000000001" y="1410.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-653" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431.5" y="3217" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfvrkdM47xdFP-2DTVX5-654" value="Developers: 120 minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431.5" y="3942" width="184" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

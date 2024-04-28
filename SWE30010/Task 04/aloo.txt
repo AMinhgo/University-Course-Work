@@ -1,0 +1,25 @@
+Tier1 Presentation
+	Cloudflare: secure DNS ( url website)
+	
+	Vuejs: Framework for CSR
+		Author Authen --> login and 
+		sockerio --> (notification)(client side )
+		tailwindcss/ bootstrap --> (css)
+		chartjs --> chart
+Tire 2 application (2 server)
+	Application 1: (use FLASH)
+		FLASK
+			Get attendence of employee use biometric 
+			create API to connect beterwenn server
+
+	Appication 2: (use firecloud function)  (use Firebase cloud servives)
+		Nodejs( use JS to write , FLASk use python to write) (Node is a runtime environment for executing server-side JavaScript code,
+			Expressjs   is a framework built for Node, offering features and tools that streamline server-side development. Each plays a distinct role in web development.
+				Socket.io ( real time notification)(server side)
+				API
+				RTDB (database for realtime data like IOT data)
+				Google sreadsheet (need author to connect) >> register IAM servie to get author to connect google sheet and write on it)
+Tier 3: Database
+	Googelspread sheet
+	RTDB
+		
